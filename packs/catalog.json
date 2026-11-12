@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "project": "CatQuest Extended",
+  "website": "https://catquest.mvse.ws/",
+  "updatedAt": "2026-11-12",
+  "packs": [
+    {
+      "id": "CatQuestExtended_Voices",
+      "name": "CatQuest Extended Voices",
+      "version": "1.3.0-extended.2",
+      "status": "published",
+      "locales": ["ruRU"],
+      "clientProfiles": ["3.3.5a"],
+      "modules": ["Voices"],
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "See the pack attribution and upstream project page",
+      "sourceUrl": "https://www.curseforge.com/wow/addons/catquest-voices",
+      "downloadUrl": "https://catquest.mvse.ws/downloads/CatQuestExtended_Voices.zip",
+      "sizeBytes": 1491328329,
+      "sha256": "36b3df45659a40f898b75f5b63aa51c1eb7f25ec87c4660ac8340d2cd91530fe"
+    }
+  ]
+}

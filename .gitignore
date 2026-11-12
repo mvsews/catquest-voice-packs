@@ -1,0 +1,26 @@
+# Audio and distribution archives stay outside Git.
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.ogg
+*.mp3
+*.wav
+*.flac
+
+# Local export and build folders.
+dist/
+build/
+out/
+
+# Local configuration and secrets.
+.env
+.env.*
+!.env.example
+
+# OS/editor files.
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
